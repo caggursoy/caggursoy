@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caggursoy&label=Profile%20views&color=7f0eb4&style=flat" alt="caggursoy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caggursoy" alt="caggursoy" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caggursoy&theme=dracula" alt="caggursoy" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/caggursoy" target="blank"><img src="https://img.shields.io/twitter/follow/caggursoy?logo=twitter&style=for-the-badge" alt="caggursoy" /></a> </p>
 
