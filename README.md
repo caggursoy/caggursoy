@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/caggursoy" target="blank"><img src="https://img.shields.io/twitter/follow/caggursoy?logo=twitter&style=for-the-badge" alt="caggursoy" /></a> </p>
 
-- 🌱 I’m currently learning **R and Statistics, Open Science, and Anthropology**
+- 🌱 I’m currently learning **R, Statistics, Open Science and Anthropology**
 
 - 👨‍💻 All of my projects are available at [https://github.com/caggursoy](https://github.com/caggursoy)
 
