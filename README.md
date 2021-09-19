@@ -11,11 +11,9 @@
 
 <p align="left"> <a href="https://twitter.com/caggursoy" target="blank"><img src="https://img.shields.io/twitter/follow/caggursoy?logo=twitter&style=for-the-badge" alt="caggursoy" /></a> </p>
 
-- 🌱 I’m currently learning **R, Statistics, Open Science and Anthropology**
-
 - 👨‍💻 All of my projects are available at [https://github.com/caggursoy](https://github.com/caggursoy)
 
-- 📝 I regularly write articles on [http://cagataygursoy.com/blog.html](http://cagataygursoy.com/blog.html)
+- 📝 I (non-)regularly write blog posts on [http://cagataygursoy.com/blog.html](http://cagataygursoy.com/blog.html)
 
 - 💬 Ask me about **Open Science, Neuroscience, AI and Anthropology**
 
