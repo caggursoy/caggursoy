@@ -33,6 +33,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caggursoy&layout=compact&hide=html,css,jupyter%20notebook,&theme=radical&langs_count=10" alt="caggursoy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caggursoy&show_icons=true&theme=radical&locale=en" alt="caggursoy" /></p>
+
+![Cagatay's GitHub stats](https://github-readme-stats.vercel.app/api?username=caggursoy&count_private=true&show_icons=true&theme=radical)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caggursoy&" alt="caggursoy" /></p>
