@@ -1,25 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Metrics</title>
-<style>
-    .column {
-        float: left;
-        width: 50%;
-    }
-    /* Clear floats after the columns */
-    .row:after {
-        content: "";
-        display: table;
-        clear: both;
-    }
-
-</style>
-</head>
-<body>
-
 <div class="row">
     <div class="column">
         <img src="github-metrics.svg" alt="Metrics" style="width:100%">
@@ -32,6 +10,3 @@
         <img src="metrics.plugin.isocalendar.fullyear.svg" alt="Full Calendar" style="width:100%">
     </div>
 </div>
-
-</body>
-</html>
