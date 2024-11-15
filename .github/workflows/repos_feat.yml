@@ -20,4 +20,4 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_repositories: yes
-          plugin_repositories_featured: caggursoy/phdSideQuests
+          plugin_repositories_featured: caggursoy/phdSideQuests, IGOR-bioDGPs/ARIADNE
