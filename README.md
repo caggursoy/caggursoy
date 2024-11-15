@@ -1,6 +1,7 @@
 <div class="row">
     <div class="column">
         <img src="github-metrics.svg" alt="Metrics" style="width:100%">
+        <img src="metrics.plugin.repositories.svg" alt="Featured repos" style="width:100%">
         <img src="metrics.plugin.followup.user.svg" alt="Followups" style="width:100%">
         <img src="metrics.plugin.languages.indepth.svg" alt="Languages" style="width:100%">
     </div>
