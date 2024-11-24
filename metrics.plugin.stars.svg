@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mpl-extensions/mpl-interactions</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Sliders to control matplotlib and other interactive goodies. Works in any interactive backend and even uses ipywidgets when in a Jupyter notebook</div>
@@ -76,7 +76,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>robertoostenveld/polar2osc</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Receive heart-rate and inter-beat interval data over Bluetooth from one or multiple Polar H9 belts and send this over OSC to TouchDesigner.</div>
@@ -129,7 +129,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nipreps/niworkflows</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Common workflows for MRI (anatomical, functional, diffusion, etc)</div>
